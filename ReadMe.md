@@ -3,18 +3,12 @@
 <h1 align="center">Hi 👋, I'm Sharvayu Zade</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
-<p align="center">
-  B.Tech Computer Science and Engineering Student at SYMBIOSIS INSTITUTE OF TECHNOLOGY, Nagpur.<br>
-  My area of interests are Artificial Intelligence and Machine Learning.
-</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sharvayuzade&label=Profile%20views&color=0e75b6&style=flat" alt="sharvayuzade" /> 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharvayuzade" alt="sharvayuzade" /></a> 
-</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sharvayuzade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharvayu.zade@gmail.com) 
@@ -26,6 +20,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=sharvayuzade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sharvayuzade&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharvayuzade" alt="sharvayuzade" /></a> 
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sharvayuzade&limit=5&theme=dark&combine_all_yearly_contributions=true)
