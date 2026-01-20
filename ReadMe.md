@@ -27,10 +27,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharvayuzade&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<p> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharvayuzade" alt="sharvayuzade" /></a> 
-</p>
 
