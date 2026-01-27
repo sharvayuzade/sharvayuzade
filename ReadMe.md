@@ -1,8 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Sharvayu Zade</h1>
+<h1 align="center">Hi, I'm Sharvayu Zade</h1>
 <!-- <h3 align="center"> A passionate Machine Learning developer from India</h3> -->
-
+<p align="center">3rd Year Computer Science Student<br>
+Honors in Artificial Intelligence & Machine Learning<br>
+Constantly Learning, Building and Deploying</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sharvayuzade&label=Profile%20views&color=0e75b6&style=flat" alt="sharvayuzade" /> 
