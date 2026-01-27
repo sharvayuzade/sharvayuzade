@@ -7,13 +7,13 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=3rd+Year+Computer+Science+Student;Honors+in+AI+%26+Machine+Learning;Constantly+Learning%2C+Building+%26+Deploying" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=3rd+Year+Computer+Science+Student;Honors+in+AI+%26+Machine+Learning;Constantly+Learning%2C+Building+%26+Deploying" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharvayuzade&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sharvayuzade?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=2A2A3E" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=sharvayuzade&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sharvayuzade?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=6366F1" alt="followers" />
 </p>
 
 ---
@@ -43,13 +43,13 @@ const sharvayu = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharvayuzade/">
-    <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2A2A3E" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" alt="LinkedIn"/>
   </a>
   <a href="mailto:sharvayuzade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A2A3E" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6366F1" alt="Email"/>
   </a>
   <a href="https://github.com/sharvayuzade">
-    <img src="https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A3E" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=6366F1" alt="GitHub"/>
   </a>
 </p>
 
@@ -214,17 +214,17 @@ const sharvayu = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7F5AF0&icon_color=2CB67D&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&sideNums=FFFFFF&currStreakNum=2CB67D&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=EC4899&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7F5AF0&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=1A1B27&color=FFFFFF&line=7F5AF0&point=2CB67D&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=7F5AF0&height=300" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=0F172A&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=8B5CF6&height=300" alt="Activity Graph"/>
 
 </div>
 
@@ -233,7 +233,7 @@ const sharvayu = {
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=1A1B27&border_color=7F5AF0&quote_color=FFFFFF&author_color=2CB67D" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0F172A&border_color=8B5CF6&quote_color=FFFFFF&author_color=EC4899" alt="Dev Quote"/>
 </p>
 
 ---
