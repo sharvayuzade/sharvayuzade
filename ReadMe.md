@@ -228,13 +228,8 @@ const sharvayu = {
 
 </div>
 
----
 
-## 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=1A1B27&border_color=7F5AF0&quote_color=FFFFFF&author_color=2CB67D" alt="Dev Quote"/>
-</p>
 
 ---
 
