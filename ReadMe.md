@@ -43,13 +43,13 @@ const sharvayu = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharvayuzade/">
-    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sharvayuzade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6366F1" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sharvayuzade">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=6366F1" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -82,8 +82,8 @@ const sharvayu = {
         <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="Assembly" />
-        <br>Assembly
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
     </td>
 </tr>
 <tr>
@@ -122,41 +122,41 @@ const sharvayu = {
         <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/acrobat/acrobat-original.svg" width="48" height="48" alt="Adobe Reader" />
-        <br>Adobe Reader
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />
+        <br>Adobe AI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
         <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
         <br>Keras
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" width="48" height="48" alt="Matplotlib" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
         <br>Matplotlib
     </td>
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mlflow.svg" width="48" height="48" alt="MLFlow" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" width="48" height="48" alt="MLFlow" />
         <br>MLFlow
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48" height="48" alt="SciPy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="48" height="48" alt="SciPy" />
         <br>SciPy
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="48" height="48" alt="NumPy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
         <br>NumPy
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="48" height="48" alt="Pandas" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
         <br>Pandas
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="Plotly" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly" />
         <br>Plotly
     </td>
     <td align="center" width="96">
@@ -166,11 +166,11 @@ const sharvayu = {
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
         <br>Scikit-learn
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
         <br>TensorFlow
     </td>
     <td align="center" width="96">
@@ -213,29 +213,16 @@ const sharvayu = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/sharvayuzade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/sharvayuzade">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=94A3B8&sideLabels=8B5CF6" alt="GitHub Streak"/>
-</a>
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=94A3B8&sideLabels=8B5CF6" height="180em" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-
-<a href="https://github.com/sharvayuzade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-</a>
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" height="180em" alt="Top Languages"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=0F172A&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=0F172A&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
