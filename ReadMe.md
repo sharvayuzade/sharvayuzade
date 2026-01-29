@@ -122,10 +122,6 @@ const sharvayu = {
         <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Adobe Illustrator" />
-        <br>Adobe AI
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
         <br>Figma
     </td>
@@ -137,14 +133,14 @@ const sharvayu = {
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
         <br>Matplotlib
     </td>
-</tr>
-<tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" width="48" height="48" alt="MLFlow" />
         <br>MLFlow
     </td>
+</tr>
+<tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="48" height="48" alt="SciPy" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48" height="48" alt="SciPy" />
         <br>SciPy
     </td>
     <td align="center" width="96">
@@ -163,12 +159,12 @@ const sharvayu = {
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
         <br>PyTorch
     </td>
-</tr>
-<tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
         <br>Scikit-learn
     </td>
+</tr>
+<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
         <br>TensorFlow
@@ -189,12 +185,12 @@ const sharvayu = {
         <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" width="48" height="48" alt="Twilio" />
         <br>Twilio
     </td>
-</tr>
-<tr>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
         <br>Power BI
     </td>
+</tr>
+<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
         <br>Docker
