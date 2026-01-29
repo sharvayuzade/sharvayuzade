@@ -216,7 +216,7 @@ const sharvayu = {
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7F5AF0&icon_color=2CB67D&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&sideNums=FFFFFF&currStreakNum=2CB67D&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&sideNums=FFFFFF&currStreakNum=2CB67D&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -224,7 +224,7 @@ const sharvayu = {
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7F5AF0&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages"/>
 
-<img width="49%" src="https://github-readme-activity-graph.cyclic.app/graph?username=sharvayuzade&bg_color=1A1B27&color=FFFFFF&line=7F5AF0&point=2CB67D&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=7F5AF0&height=300" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=1A1B27&color=FFFFFF&line=7F5AF0&point=2CB67D&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=7F5AF0&height=300" alt="Activity Graph"/>
 
 </div>
 
