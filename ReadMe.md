@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23,26&height=200&section=header&text=Sharvayu%20Zade&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23,26&height=200&section=header&text=Sharvayu%20Zade&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=3rd+Year+Computer+Science+Student;Honors+in+AI+%26+Machine+Learning;Constantly+Learning%2C+Building+%26+Deploying" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%26+ML+Enthusiast+%7C+Full+Stack+Developer;Building+Intelligent+Solutions+with+Code" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -214,26 +214,19 @@ const sharvayu = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&sideNums=FFFFFF&currStreakNum=2CB67D&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=EC4899&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=94A3B8&sideLabels=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=0F172A&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=8B5CF6&height=300" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=0F172A&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
-
-
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0F172A&border_color=8B5CF6&quote_color=FFFFFF&author_color=EC4899" alt="Dev Quote"/>
-</p>
 
 ---
 
