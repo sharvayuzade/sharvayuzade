@@ -228,9 +228,7 @@ const sharvayu = {
 
 </div>
 
----
 
-## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0F172A&border_color=8B5CF6&quote_color=FFFFFF&author_color=EC4899" alt="Dev Quote"/>
@@ -245,6 +243,6 @@ const sharvayu = {
   
 ### ⭐ Show some love by starring some repositories! ⭐
 
-**Made with 💜 by Sharvayu Zade**
+**Made by Sharvayu Zade**
 
 </div>
