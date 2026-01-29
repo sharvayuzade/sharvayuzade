@@ -122,7 +122,7 @@ const sharvayu = {
         <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-acrobat-reader-dc.svg" width="48" height="48" alt="Adobe Reader" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/acrobat/acrobat-original.svg" width="48" height="48" alt="Adobe Reader" />
         <br>Adobe Reader
     </td>
     <td align="center" width="96">
@@ -140,11 +140,11 @@ const sharvayu = {
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://www.svgrepo.com/show/473746/mlflow.svg" width="48" height="48" alt="MLFlow" />
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mlflow.svg" width="48" height="48" alt="MLFlow" />
         <br>MLFlow
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/scipy-1.svg" width="48" height="48" alt="SciPy" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48" height="48" alt="SciPy" />
         <br>SciPy
     </td>
     <td align="center" width="96">
@@ -216,6 +216,7 @@ const sharvayu = {
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&sideNums=FFFFFF&currStreakNum=2CB67D&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=EC4899&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
 
 </div>
