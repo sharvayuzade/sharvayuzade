@@ -216,7 +216,7 @@ const sharvayu = {
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7F5AF0&icon_color=2CB67D&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&sideNums=FFFFFF&currStreakNum=2CB67D&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&sideNums=FFFFFF&currStreakNum=2CB67D&sideLabels=FFFFFF&dates=8B8B8B&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
