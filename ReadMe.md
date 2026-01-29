@@ -240,6 +240,6 @@ const sharvayu = {
   
 ### ⭐ Show some love by starring some repositories! ⭐
 
-**Made with 💜 by Sharvayu Zade**
+**Made by Sharvayu Zade**
 
 </div>
