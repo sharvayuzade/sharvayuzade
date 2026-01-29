@@ -213,18 +213,28 @@ const sharvayu = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=94A3B8&sideLabels=8B5CF6" alt="GitHub Streak"/>
+<a href="https://github.com/sharvayuzade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharvayuzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/sharvayuzade">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=sharvayuzade&theme=tokyonight&hide_border=true&background=0F172A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=94A3B8&sideLabels=8B5CF6" alt="GitHub Streak"/>
+</a>
 
 </div>
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=0F172A&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+<a href="https://github.com/sharvayuzade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvayuzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharvayuzade&bg_color=0F172A&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -234,7 +244,7 @@ const sharvayu = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23,26&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  
+
 ### ⭐ Show some love by starring some repositories! ⭐
 
 **Made by Sharvayu Zade**
