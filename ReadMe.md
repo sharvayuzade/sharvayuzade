@@ -134,7 +134,7 @@ const sharvayu = {
         <br>Matplotlib
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" width="48" height="48" alt="MLFlow" />
+        <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="48" height="48" alt="MLFlow" />
         <br>MLFlow
     </td>
 </tr>
