@@ -28,7 +28,7 @@
 ```typescript
 const sharvayu = {
     location: "India 🇮🇳",
-    education: "B.Tech in Computer Science (AI & ML Honors)",
+    education: "B.Tech in Computer Science with specialiazation in AI & ML",
     currentYear: "3rd Year",
     interests: ["Machine Learning", "Deep Learning", "AI Research", "Full Stack Development"],
     currentlyLearning: ["Advanced ML Algorithms", "Neural Networks", "MLOps", "Cloud Computing"],
