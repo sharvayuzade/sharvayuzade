@@ -29,7 +29,7 @@
 const sharvayu = {
     location: "India 🇮🇳",
     education: "B.Tech in Computer Science with specialiazation in AI & ML",
-    currentYear: "3rd Year",
+    currentYear: "4th Year",
     interests: ["Machine Learning", "Deep Learning", "AI Research", "Full Stack Development"],
     currentlyLearning: ["Advanced ML Algorithms", "Neural Networks", "MLOps", "Cloud Computing"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
