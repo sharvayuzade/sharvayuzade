@@ -1,5 +1,5 @@
 <div align="center">
-a
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23,26&height=200&section=header&text=Sharvayu%20Zade&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
