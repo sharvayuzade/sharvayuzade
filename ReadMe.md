@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%26+ML+Enthusiast+%7C+Full+Stack+Developer;Building+Intelligent+Solutions+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%26+ML+Enthusiast+%7C+Machine+Learning+Developer;Building+Intelligent+Solutions+with+Code" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -28,9 +28,9 @@
 ```typescript
 const sharvayu = {
     location: "India 🇮🇳",
-    education: "B.Tech in Computer Science with specialiazation in AI & ML",
+    education: "B.Tech in Computer Science with specialization in AI & ML",
     currentYear: "4th Year",
-    interests: ["Machine Learning", "Deep Learning", "AI Research", "Full Stack Development"],
+    interests: ["Machine Learning", "Deep Learning", "AI Research"],
     currentlyLearning: ["Advanced ML Algorithms", "Neural Networks", "MLOps", "Cloud Computing"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     lifePhilosophy: "Code. Learn. Deploy. Repeat. 🔄"
