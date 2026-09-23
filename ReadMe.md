@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%26+ML+Enthusiast+%7C+Machine+Learning+Developer;Building+Intelligent+Solutions+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AIML+Enthusiast+%7C+Machine+Learning+Developer;Building+Intelligent+Solutions+with+Code" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
